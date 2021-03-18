@@ -42,6 +42,19 @@
 					]
 				}
 			]
+		},
+		{
+			"themeBlockTitle": "Para Relaxar",
+			"linkBlock": [
+				{
+					"linkBlockTitle": "Ioga e Alongamentos",
+					"linkItem": [
+						{
+							"link": "[]()"
+						}
+					]
+				}
+			]
 		}
 	]
 }
