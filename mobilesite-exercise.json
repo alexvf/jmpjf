@@ -4,6 +4,14 @@
 			"themeBlockTitle": "Videos",
 			"linkBlock": [
 				{
+					"linkBlockTitle": "Alongamentos e Mobilidade",
+					"linkItem": [
+						{
+							"link": "[DicasDoSalgueiro - Sessão Completa de Alongamentos!](https://www.youtube.com/watch?v=7hjbtynQ4cM)"
+						}
+					]
+				},
+				{
 					"linkBlockTitle": "Remo Indoor",
 					"linkItem": [
 						{
@@ -35,14 +43,6 @@
 						},
 						{
 							"link": "[Dark Horse Rowing: Complete Playlist](https://www.youtube.com/playlist?list=PLUg8ybh0Y3Cr9qjSbD9ecgkHNinFsp-uv)"
-						}
-					]
-				},
-				{
-					"linkBlockTitle": "Alongamentos e Mobilidade",
-					"linkItem": [
-						{
-							"link": "[DicasDoSalgueiro - Sessão Completa de Alongamentos!](https://www.youtube.com/watch?v=7hjbtynQ4cM)"
 						}
 					]
 				}
