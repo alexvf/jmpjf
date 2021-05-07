@@ -58,6 +58,17 @@
 					]
 				}
 			]
+		},
+		{
+			"themeBlockTitle": "Para Descontrair",
+			"linkBlock": [
+				{
+					"linkBlockTitle": "Lounge",
+					"linkItem": [
+						{}
+					]
+				}
+			]
 		}
 	]
 }
